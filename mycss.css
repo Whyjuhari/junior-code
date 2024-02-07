@@ -1,0 +1,15 @@
+.word {
+    margin: auto;
+    color: white;
+  }
+.row {
+  display: flex;
+}
+.text {
+  width: 350px;
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
